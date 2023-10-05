@@ -57,7 +57,7 @@ As a bonus feature, the Virtual Memory Allocator allows users to change the perm
 
 To aid in understanding the state of allocated memory, the project includes a visualization feature. Users can use the PMAP command to generate a comprehensive map of memory blocks and miniblocks, along with their permissions and sizes. This visualization helps users track memory allocations and understand how memory is organized.
 
-[Howitworks](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/How_it_works.png)
+![Howitworks](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/How_it_works.png)
 
 ## How to Use
 

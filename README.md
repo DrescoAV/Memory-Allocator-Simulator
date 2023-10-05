@@ -57,7 +57,7 @@ As a bonus feature, the Virtual Memory Allocator allows users to change the perm
 
 To aid in understanding the state of allocated memory, the project includes a visualization feature. Users can use the PMAP command to generate a comprehensive map of memory blocks and miniblocks, along with their permissions and sizes. This visualization helps users track memory allocations and understand how memory is organized.
 
-[Howitworks](https://github.com/)
+[Howitworks](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/How_it_works.png)
 
 ## How to Use
 
@@ -113,7 +113,7 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone SAPUNLINK
+   git clone https://github.com/DrescoAV/Memory-Alocator-Simulator
    ```
 
 2. Compile the program by typing "make" into your terminal (or compile manually using gcc).
@@ -270,4 +270,4 @@ We appreciate your contributions to make this project better.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](SAPUNLINKAICI) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/LICENSE) file for details.

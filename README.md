@@ -45,6 +45,8 @@ One of the core functionalities of the Virtual Memory Allocator is memory alloca
 
 Memory deallocation is another critical feature. Users can free memory blocks or smaller sub-blocks called "miniblocks." The allocator optimizes memory usage by merging adjacent free memory areas, ensuring efficient use of memory resources.
 
+![Howitworks](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/How_it_works.png)
+
 ### Data Reading and Writing
 
 The project provides capabilities for reading and writing data within allocated memory blocks. Users can read a specified amount of data from a memory address and write data to a given address within the allocated memory. The allocator handles data access and manipulation, making it a valuable tool for understanding data management in memory.
@@ -56,8 +58,6 @@ As a bonus feature, the Virtual Memory Allocator allows users to change the perm
 ### Visualization
 
 To aid in understanding the state of allocated memory, the project includes a visualization feature. Users can use the PMAP command to generate a comprehensive map of memory blocks and miniblocks, along with their permissions and sizes. This visualization helps users track memory allocations and understand how memory is organized.
-
-![Howitworks](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/How_it_works.png)
 
 ## How to Use
 

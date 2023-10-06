@@ -270,4 +270,6 @@ We appreciate your contributions to make this project better.
 
 ## License
 
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/LICENSE)
+
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/LICENSE) file for details.

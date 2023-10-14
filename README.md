@@ -1,10 +1,10 @@
-# Virtually Memory Alocator Simulator
+# Virtually Memory Allocator Simulator
 
 ## Author: Andrei-Valerian Andreescu
 
 ## Table of Contents
 
-- [Virtually Memory Alocator Simulator](#virtually-memory-alocator-simulator)
+- [Virtually Memory Allocator Simulator](#virtually-memory-Allocator-simulator)
   - [Author: Andrei-Valerian Andreescu](#author-andrei-valerian-andreescu)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
@@ -45,7 +45,7 @@ One of the core functionalities of the Virtual Memory Allocator is memory alloca
 
 Memory deallocation is another critical feature. Users can free memory blocks or smaller sub-blocks called "miniblocks." The allocator optimizes memory usage by merging adjacent free memory areas, ensuring efficient use of memory resources.
 
-![Howitworks](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/How_it_works.png)
+![Howitworks](https://github.com/DrescoAV/Memory-Allocator-Simulator/blob/main/How_it_works.png)
 
 ### Data Reading and Writing
 
@@ -113,7 +113,7 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/DrescoAV/Memory-Alocator-Simulator
+   git clone https://github.com/DrescoAV/Memory-Allocator-Simulator
    ```
 
 2. Compile the program by typing "make" into your terminal (or compile manually using gcc).
@@ -270,6 +270,6 @@ We appreciate your contributions to make this project better.
 
 ## License
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/DrescoAV/Memory-Allocator-Simulator/blob/main/LICENSE)
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/DrescoAV/Memory-Alocator-Simulator/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/DrescoAV/Memory-Allocator-Simulator/blob/main/LICENSE) file for details.
